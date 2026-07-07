@@ -1,41 +1,41 @@
-// class Solution {
-//     public long sumAndMultiply(int n) {
-//         int dup = n;
-//         int ans = 0;
-//         int place = 1;
-//         while (n > 0) {
-//             int digit = n % 10;  // ye last digit nikalega 
-//             if (digit != 0) {
-//                 ans = digit * place + ans; // place value ke sath last digit multiply krke ans mein daal dega (eg. 3*10+4) 
-//                 place *= 10; 
-//             }
-//             n /= 10;
-//         }
-//         int sum = 0;
-//         while(dup > 0){
-//             int last_digit = dup%10;
-//             sum += last_digit;
-//             dup /= 10;
-//         }
-//         return (long) sum * ans;
-//     }
-// }
-
-
-
 class Solution {
     public long sumAndMultiply(int n) {
-        int x=0;
-        int sum=0;
-        int i=1;
-        while(n>0){
-            int m=n % 10;
-            n /=10;
-            if(m == 0) continue;
-            sum += m;
-            x += (m * i);
-            i *=10;
+        int dup = n;
+        int ans = 0;
+        int place = 1;
+        while (n > 0) {
+            int digit = n % 10;  // ye last digit nikalega 
+            if (digit != 0) {
+                ans = digit * place + ans; // place value ke sath last digit multiply krke ans mein daal dega (eg. 3*10+4) 
+                place *= 10; 
+            }
+            n /= 10;
         }
-        return (long) x * sum;
+        int sum = 0;
+        while(dup > 0){
+            int last_digit = dup%10;
+            sum += last_digit;
+            dup /= 10;
+        }
+        return (long) sum * ans;
     }
 }
+
+
+
+// class Solution {
+//     public long sumAndMultiply(int n) {
+//         int x=0;
+//         int sum=0;
+//         int i=1;
+//         while(n>0){
+//             int m=n % 10;
+//             n /=10;
+//             if(m == 0) continue;
+//             sum += m;
+//             x += (m * i);
+//             i *=10;
+//         }
+//         return (long) x * sum;
+//     }
+// }
