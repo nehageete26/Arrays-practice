@@ -4,10 +4,10 @@ class Solution {
         int ans = 0;
         int place = 1;
         while (n > 0) {
-            int digit = n % 10;
+            int digit = n % 10;  // ye last digit nikalega 
             if (digit != 0) {
-                ans = digit * place + ans;
-                place *= 10;
+                ans = digit * place + ans; // place value ke sath last digit multiply krke ans mein daal dega (eg. 3*10+4) 
+                place *= 10; 
             }
             n /= 10;
         }
