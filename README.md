@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nehageete26/Arrays-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nehageete26/Arrays-practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nehageete26/Arrays-practice/tree/master/1480-running-sum-of-1d-array) |
+| [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nehageete26/Arrays-practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0229-majority-element-ii/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 <!---LeetCode Topics End-->
