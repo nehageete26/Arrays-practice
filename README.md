@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nehageete26/Arrays-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nehageete26/Arrays-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/nehageete26/Arrays-practice/tree/main/0075-sort-colors/) | Medium |
+| [0162-find-peak-element](https://github.com/nehageete26/Arrays-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehageete26/Arrays-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nehageete26/Arrays-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nehageete26/Arrays-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/nehageete26/Arrays-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/nehageete26/Arrays-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehageete26/Arrays-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
