@@ -137,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehageete26/Arrays-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1527-patients-with-a-condition](https://github.com/nehageete26/Arrays-practice/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
