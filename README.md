@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nehageete26/Arrays-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nehageete26/Arrays-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/nehageete26/Arrays-practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/nehageete26/Arrays-practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehageete26/Arrays-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nehageete26/Arrays-practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nehageete26/Arrays-practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/nehageete26/Arrays-practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehageete26/Arrays-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nehageete26/Arrays-practice/tree/master/0283-move-zeroes) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehageete26/Arrays-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Database
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehageete26/Arrays-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
