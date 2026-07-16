@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nehageete26/Arrays-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehageete26/Arrays-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Arrays-practice/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nehageete26/Arrays-practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0229-majority-element-ii/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
