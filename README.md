@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/nehageete26/Arrays-practice/tree/main/0342-power-of-four/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehageete26/Arrays-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nehageete26/Arrays-practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nehageete26/Arrays-practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/nehageete26/Arrays-practice/tree/main/0342-power-of-four/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehageete26/Arrays-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/nehageete26/Arrays-practice/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
