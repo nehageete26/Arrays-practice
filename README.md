@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nehageete26/Arrays-practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Arrays-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/nehageete26/Arrays-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nehageete26/Arrays-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nehageete26/Arrays-practice/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nehageete26/Arrays-practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/nehageete26/Arrays-practice/tree/main/0605-can-place-flowers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
