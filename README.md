@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nehageete26/Arrays-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehageete26/Arrays-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehageete26/Arrays-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2706-buy-two-chocolates](https://github.com/nehageete26/Arrays-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nehageete26/Arrays-practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/nehageete26/Arrays-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/nehageete26/Arrays-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nehageete26/Arrays-practice/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/nehageete26/Arrays-practice/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nehageete26/Arrays-practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
