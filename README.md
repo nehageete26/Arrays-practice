@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehageete26/Arrays-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/nehageete26/Arrays-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nehageete26/Arrays-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/nehageete26/Arrays-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehageete26/Arrays-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
