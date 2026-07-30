@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nehageete26/Arrays-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/nehageete26/Arrays-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0066-plus-one](https://github.com/nehageete26/Arrays-practice/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nehageete26/Arrays-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/nehageete26/Arrays-practice/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/nehageete26/Arrays-practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/nehageete26/Arrays-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
