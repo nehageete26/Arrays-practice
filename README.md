@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/nehageete26/Arrays-practice/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/nehageete26/Arrays-practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehageete26/Arrays-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/nehageete26/Arrays-practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -269,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/nehageete26/Arrays-practice/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/nehageete26/Arrays-practice/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nehageete26/Arrays-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/0509-fibonacci-number/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
