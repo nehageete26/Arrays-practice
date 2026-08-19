@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/nehageete26/Arrays-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/nehageete26/Arrays-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehageete26/Arrays-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Arrays-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nehageete26/Arrays-practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nehageete26/Arrays-practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Arrays-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nehageete26/Arrays-practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehageete26/Arrays-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/nehageete26/Arrays-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Arrays-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nehageete26/Arrays-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehageete26/Arrays-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehageete26/Arrays-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehageete26/Arrays-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Arrays-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
