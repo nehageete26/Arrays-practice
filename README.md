@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nehageete26/Arrays-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/nehageete26/Arrays-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/nehageete26/Arrays-practice/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nehageete26/Arrays-practice/tree/main/0075-sort-colors/) | Medium |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nehageete26/Arrays-practice/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nehageete26/Arrays-practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/nehageete26/Arrays-practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/nehageete26/Arrays-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehageete26/Arrays-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
