@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/nehageete26/Arrays-practice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nehageete26/Arrays-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nehageete26/Arrays-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/nehageete26/Arrays-practice/tree/main/0041-first-missing-positive/) | Hard |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nehageete26/Arrays-practice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nehageete26/Arrays-practice/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/nehageete26/Arrays-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/nehageete26/Arrays-practice/tree/main/0075-sort-colors/) | Medium |
