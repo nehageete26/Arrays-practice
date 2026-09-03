@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehageete26/Arrays-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nehageete26/Arrays-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/nehageete26/Arrays-practice/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/nehageete26/Arrays-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nehageete26/Arrays-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/nehageete26/Arrays-practice/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nehageete26/Arrays-practice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nehageete26/Arrays-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
