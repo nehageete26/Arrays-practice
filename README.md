@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/nehageete26/Arrays-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0062-unique-paths](https://github.com/nehageete26/Arrays-practice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nehageete26/Arrays-practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
