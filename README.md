@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1154-day-of-the-year](https://github.com/nehageete26/Arrays-practice/tree/main/1154-day-of-the-year/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehageete26/Arrays-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nehageete26/Arrays-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Arrays-practice/tree/master/0917-reverse-only-letters) |
+| [1154-day-of-the-year](https://github.com/nehageete26/Arrays-practice/tree/main/1154-day-of-the-year/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
