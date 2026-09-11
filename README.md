@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Arrays-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nehageete26/Arrays-practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nehageete26/Arrays-practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nehageete26/Arrays-practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nehageete26/Arrays-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nehageete26/Arrays-practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nehageete26/Arrays-practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/nehageete26/Arrays-practice/tree/main/3731-find-missing-elements/) | Easy |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nehageete26/Arrays-practice/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/nehageete26/Arrays-practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
