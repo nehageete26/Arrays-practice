@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/nehageete26/Arrays-practice/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/nehageete26/Arrays-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nehageete26/Arrays-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Arrays-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/nehageete26/Arrays-practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/nehageete26/Arrays-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/nehageete26/Arrays-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/nehageete26/Arrays-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nehageete26/Arrays-practice/tree/main/0217-contains-duplicate/) | Easy |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/nehageete26/Arrays-practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/nehageete26/Arrays-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0867-transpose-matrix/) | Easy |
