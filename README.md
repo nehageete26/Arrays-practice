@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/nehageete26/Arrays-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/nehageete26/Arrays-practice/tree/main/0896-monotonic-array/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/nehageete26/Arrays-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0941-valid-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/0941-valid-mountain-array/) | Easy |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Arrays-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/nehageete26/Arrays-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nehageete26/Arrays-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Arrays-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/nehageete26/Arrays-practice/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/nehageete26/Arrays-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nehageete26/Arrays-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Design
