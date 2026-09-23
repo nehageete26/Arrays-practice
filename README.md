@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/nehageete26/Arrays-practice/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/nehageete26/Arrays-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/nehageete26/Arrays-practice/tree/main/0486-predict-the-winner/) | Medium |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nehageete26/Arrays-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Arrays-practice/tree/master/0560-subarray-sum-equals-k) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/nehageete26/Arrays-practice/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0881-boats-to-save-people](https://github.com/nehageete26/Arrays-practice/tree/main/0881-boats-to-save-people/) | Medium |
