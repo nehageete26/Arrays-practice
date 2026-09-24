@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nehageete26/Arrays-practice/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nehageete26/Arrays-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/nehageete26/Arrays-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/nehageete26/Arrays-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Arrays-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
+| [0242-valid-anagram](https://github.com/nehageete26/Arrays-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Arrays-practice/tree/master/0917-reverse-only-letters) |
 | [1154-day-of-the-year](https://github.com/nehageete26/Arrays-practice/tree/main/1154-day-of-the-year/) | Easy |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/nehageete26/Arrays-practice/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/nehageete26/Arrays-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/nehageete26/Arrays-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
