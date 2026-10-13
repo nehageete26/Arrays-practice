@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehageete26/Arrays-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/nehageete26/Arrays-practice/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/nehageete26/Arrays-practice/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nehageete26/Arrays-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nehageete26/Arrays-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nehageete26/Arrays-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
