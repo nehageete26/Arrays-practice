@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/nehageete26/Arrays-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/nehageete26/Arrays-practice/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/nehageete26/Arrays-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/nehageete26/Arrays-practice/tree/main/0867-transpose-matrix/) | Easy |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/nehageete26/Arrays-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/nehageete26/Arrays-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
