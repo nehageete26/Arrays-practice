@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/nehageete26/Arrays-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Arrays-practice/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/nehageete26/Arrays-practice/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nehageete26/Arrays-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehageete26/Arrays-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nehageete26/Arrays-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Arrays-practice/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/nehageete26/Arrays-practice/tree/main/0925-long-pressed-name/) | Easy |
 | [1154-day-of-the-year](https://github.com/nehageete26/Arrays-practice/tree/main/1154-day-of-the-year/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
