@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1179-reformat-department-table](https://github.com/nehageete26/Arrays-practice/tree/main/1179-reformat-department-table/) | Easy |
 | [1251-average-selling-price](https://github.com/nehageete26/Arrays-practice/tree/main/1251-average-selling-price/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/nehageete26/Arrays-practice/tree/main/1527-patients-with-a-condition/) | Easy |
 ## Simulation
