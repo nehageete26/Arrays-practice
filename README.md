@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Arrays-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehageete26/Arrays-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nehageete26/Arrays-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nehageete26/Arrays-practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/nehageete26/Arrays-practice/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3099-harshad-number](https://github.com/nehageete26/Arrays-practice/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Arrays-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehageete26/Arrays-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nehageete26/Arrays-practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nehageete26/Arrays-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nehageete26/Arrays-practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
