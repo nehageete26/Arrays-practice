@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/nehageete26/Arrays-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/nehageete26/Arrays-practice/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/nehageete26/Arrays-practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nehageete26/Arrays-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nehageete26/Arrays-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/nehageete26/Arrays-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nehageete26/Arrays-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0067-add-binary](https://github.com/nehageete26/Arrays-practice/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/nehageete26/Arrays-practice/tree/main/0242-valid-anagram/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/nehageete26/Arrays-practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/nehageete26/Arrays-practice/tree/main/0925-long-pressed-name/) | Easy |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/nehageete26/Arrays-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/nehageete26/Arrays-practice/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/nehageete26/Arrays-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0912-sort-an-array/) | Medium |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nehageete26/Arrays-practice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nehageete26/Arrays-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0819-most-common-word](https://github.com/nehageete26/Arrays-practice/tree/main/0819-most-common-word/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/nehageete26/Arrays-practice/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -386,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/nehageete26/Arrays-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/nehageete26/Arrays-practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -402,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nehageete26/Arrays-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -464,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/nehageete26/Arrays-practice/tree/main/1025-divisor-game/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/nehageete26/Arrays-practice/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
