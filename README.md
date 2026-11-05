@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/nehageete26/Arrays-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nehageete26/Arrays-practice/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/nehageete26/Arrays-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/nehageete26/Arrays-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/nehageete26/Arrays-practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/nehageete26/Arrays-practice/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nehageete26/Arrays-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nehageete26/Arrays-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nehageete26/Arrays-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nehageete26/Arrays-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/nehageete26/Arrays-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nehageete26/Arrays-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nehageete26/Arrays-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehageete26/Arrays-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nehageete26/Arrays-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nehageete26/Arrays-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
