@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nehageete26/Arrays-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/nehageete26/Arrays-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nehageete26/Arrays-practice/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/nehageete26/Arrays-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/nehageete26/Arrays-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/nehageete26/Arrays-practice/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nehageete26/Arrays-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nehageete26/Arrays-practice/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/nehageete26/Arrays-practice/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/nehageete26/Arrays-practice/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/nehageete26/Arrays-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0486-predict-the-winner](https://github.com/nehageete26/Arrays-practice/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/nehageete26/Arrays-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/nehageete26/Arrays-practice/tree/master/0523-continuous-subarray-sum) |
