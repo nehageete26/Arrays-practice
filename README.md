@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nehageete26/Arrays-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2951-find-the-peaks](https://github.com/nehageete26/Arrays-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/nehageete26/Arrays-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nehageete26/Arrays-practice/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nehageete26/Arrays-practice/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehageete26/Arrays-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/nehageete26/Arrays-practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
