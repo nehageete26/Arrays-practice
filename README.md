@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/nehageete26/Arrays-practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/nehageete26/Arrays-practice/tree/main/0925-long-pressed-name/) | Easy |
 | [1154-day-of-the-year](https://github.com/nehageete26/Arrays-practice/tree/main/1154-day-of-the-year/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/nehageete26/Arrays-practice/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/nehageete26/Arrays-practice/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nehageete26/Arrays-practice/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Bit Manipulation
